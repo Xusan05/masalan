@@ -1,0 +1,542 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.matn{
+    padding-left: 250px;
+    padding-top: 5px;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+.birqator{
+    background-color: #278442;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+}
+
+.matn1{
+    padding-top: 5px;
+    font-family: sans-serif;
+    padding-left: 20px;
+}
+.fa-clock-o{
+    color: #ffffff;
+}
+
+.fa-clock-o:hover{
+    color: #ffffff;
+    border-bottom: 1px dotted;
+}
+
+.fa-volume-up{
+    padding-top: 10px;
+    padding-left: 5px;
+    color: #ffffff;
+}
+
+.Azon{
+    color: #ffffff;
+    padding-top: 5px;
+    padding-left: 15px;
+    font-family: sans-serif;
+}
+
+.bir{
+    display: inline;
+}
+.vil{
+    background-color: #28a745;
+    color: #ffffff;
+}
+.chiquvchi{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.matn2{
+    padding-top: 5px;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding-left: 20px;
+}
+
+.tarjimon{
+    margin-left: 70px;
+    margin-top: 10px;
+    color: #ffffff;
+}
+
+.tarjima1{
+    padding: 7px;
+    background-color: #226331;
+}
+.tarjima1:hover{
+    color: #226331;
+    background-color: #ffffff;
+}
+.tarjima2{
+    padding: 7px;
+    background-color: #226331;
+}
+.tarjima2:hover{
+    color: #226331;
+    background-color: #ffffff;
+}
+
+.tarjima3{
+    padding: 7px;
+    background-color: #226331;
+}
+.tarjima3:hover{
+    color: #226331;
+    background-color: #ffffff;
+}
+.tarjima4{
+    padding: 7px;
+    background-color: #226331;
+}
+
+.tarjima4:hover{
+    color: #226331;
+    background-color: #ffffff;
+}
+
+.ikki{
+    background-color: #166E2B;
+    padding: 15px;
+}
+
+.linklar{
+    margin-left: 210px;
+}
+.sayt{
+    color: #ffffff;
+    padding-left: 30px;
+}
+
+.sayt:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.ikonka{
+    padding-left: 35px;
+    padding-top: 65px;
+}
+
+.iconka{
+    width: 150px;
+    height: 190px;
+    background-color: #29AE57;
+    padding-bottom: 40px;
+}
+
+.boshqar{
+    margin-left: 70px;
+    margin-top: -120px;
+}
+
+.shartlar{
+    margin-left: 240px;
+    margin-top: -55px;
+    display: flex;
+}
+
+.fa-adn{
+    font-size: 40px;
+    color: #226331;
+}
+.fa-adn:hover{
+    text-decoration: none;
+    color: #226331;
+}
+
+.iymon{
+    width: 30px;
+}
+
+.one{
+    display: flex;
+    border: 1px solid #17A443;
+    border-radius: 5px ;
+    margin-top: -8px;
+    margin-left: 10px;
+}
+
+.soz{
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #226331;
+}
+
+.Qator{
+    display: flex;
+}
+
+.two{
+    display: flex;
+    border: 1px solid #17A443;
+    border-radius: 5px ;
+    margin-top: -8px;
+    margin-left: 10px;
+}
+.soz2{
+    padding-top: 15px;
+    color: #226331;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.Namoz{
+    width: 25px;
+}
+
+.there{
+    display: flex;
+    border: 1px solid #17A443;
+    border-radius: 5px ;
+    margin-top: -8px;
+    margin-left: 10px;
+    width: 90px;
+}
+
+.zakot{
+    width: 35px;
+    padding-left: 7px;
+
+}
+.soz3{
+    padding-top: 15px;
+    color: #226331;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.four{
+    display: flex;
+    border: 1px solid #17A443;
+    border-radius: 5px ;
+    margin-top: -8px;
+    margin-left: 10px;
+    width: 90px;
+}
+.byn{
+    border: none;
+    background-color: #ffffff;
+}
+
+.ramazon{
+    width: 35px;
+    padding-left: 7px;
+}
+
+.soz4{
+    padding-top: 15px;
+    color: #226331;
+    padding-left: 9px;
+    padding-right: 5px;
+}
+
+.five{
+    display: flex;
+    border: 1px solid #17A443;
+    border-radius: 5px ;
+    margin-top: -8px;
+    margin-left: 10px;
+    width: 90px;
+}
+
+.haj{
+    width: 35px;
+    padding-left: 7px;
+}
+
+.soz5{
+    padding-top: 15px;
+    color: #226331;
+    padding-left: 9px;
+    padding-right: 5px;
+}
+
+.six{
+    display: flex;
+    border: 1px solid #17A443;
+    border-radius: 5px ;
+    margin-top: -8px;
+    margin-left: 10px;
+    width: 90px;
+    background-color: #226331;
+
+}
+
+.fa-music{
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 30px;
+    height: 30px;
+    color: #ffffff;
+}
+
+.radiooo{
+    padding-top: 15px;
+    padding-left: 1px;
+    color: #ffffff;
+}
+
+.seven{
+    margin-left: 20px;
+    margin-bottom: 7px;
+    border: 1px solid #17A443;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.quran{
+    width: 35px;
+
+}
+
+.eight{
+    margin-left: 20px;
+    margin-bottom: 7px;
+    border: 1px solid #17A443;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.qomus{
+    width: 35px;
+}
+
+.nine{
+    margin-left: 20px;
+    margin-bottom: 7px;
+    border: 1px solid #17A443;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.mosque{
+    width: 35px;
+}
+
+.inpot{
+    border: none;
+}
+
+.ten{
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.fa-user{
+    width: 40px;
+    height: 40px;
+    background-color: #226331;
+    color: #ffffff;
+    padding-top: 11px;
+    padding-left: 13px;
+    border-radius: 20px;
+}
+
+.fa-search{
+    width: 40px;
+    height: 40px;
+    background-color: #226331;
+    color: #ffffff;
+    border-radius: 20px;
+}
+.fa-search:hover{
+    box-shadow: 5px 5px 8px;
+}
+
+.clr{
+    clear: both;
+}
+
+.kattasi{
+    width: 100%;
+    background-color: #ffffff;
+}
+.joy{
+    margin-top: 55px;
+    margin-left: 200px;
+    justify-content: center;
+    text-align: center;
+    display: inline;
+}
+
+.vaqt{
+    display: inline;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 490px;
+    color: #226331;
+}
+
+.data{
+    display: flex;
+    border-radius: 50px;
+    margin-left: 480px;
+
+}
+.doira{
+    background-color: #226331;
+    padding: 13px 15px;
+    border-radius: 50px;
+    color: #ffffff;
+    margin: 20px;
+}
+
+.doira1{
+    background-color: #226331;
+    padding: 10px 10px;
+    border-radius: 50px;
+    color: #ffffff;
+    margin: 20px;
+}
+
+.doira2{
+    background-color: #226331;
+    padding: 13px 18px;
+    border-radius: 50px;
+    color: #ffffff;
+    margin: 20px;
+}
+
+.doira3{
+    background-color: #226331;
+    padding: 13px 15px;
+    border-radius: 50px;
+    color: #ffffff;
+    margin: 20px;
+}
+
+.doira4{
+    background-color: #226331;
+    padding: 10px 13px;
+    border-radius: 50px;
+    color: #ffffff;
+    margin: 20px;
+}
+.masjidd{
+    width: 450px;
+    height: 270px;
+}
+
+.masjd{
+    width: 370px;
+    height: 270px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: -90px;
+    border-radius: 20px;
+}
+
+.masjidd .malumot{
+    margin-left: 30px;
+    font-family:Constantia;
+    text-align: center;
+}
+
+.hec{
+    float: right;
+    margin-top: -266px;
+    margin-right: 50px;
+    display: block;
+}
+
+.matnlar{
+    width: 370px;
+    margin-left: 50px;
+    text-align: center;
+    font-family:Constantia;
+
+}
+
+.shiorimz{
+    display: block;
+    width: 290px;
+    margin-left: 620px;
+    margin-top: -280px;
+    text-align: center;
+    font-family:Constantia;
+    color: #226331;
+
+}
+
+.sharif{
+    font-family: sans-serif;
+}
+
+.ahliSunna{
+    color: #226331;
+}
+
+.toza{
+    clear: both;
+}
+
+.pnglar{
+    display: flex;
+    padding-left: 220px;
+    background-color: #278442;
+    padding-top: 20px;
+}
+
+.oyoq{
+    width: 100%;
+    height: 400px;
+    background-color:#226331 ;
+}
+.pon{
+    height: 65px;
+}
+
+.sss{
+    height: 65px;
+}
+
+.joyucn{
+    height: 80px;
+}
+.qw{
+    padding: 7px;
+}
+.tttt{
+    display: flex;
+}
+
+.big{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.kkkk{
+    border-right: 1px solid #ffffff;
+    padding-right: 30px;
+    width: 120px;
+    height: 100px;
+}
+.d-block{
+    padding-left: 30px;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.right{
+    float: right;
+    margin-top: -100px;
+    margin-right: 80px;
+}
+.manz{
+    text-align: center;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.app{
+    margin-left: 700px;
+    margin-top: -100px;
+}
